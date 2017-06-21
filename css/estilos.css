@@ -1,0 +1,136 @@
+.row {
+    width: 100%;
+    margin: 0 auto;
+    float: left;
+    clear: both;
+  }
+
+
+.home{
+  background-color:orange;
+  text-align: left;
+  width:60%;
+  color: black;
+  margin-top:10px;
+
+  }
+
+.search{
+    background-color:orange;
+    text-align: center;
+    color: black;
+    width:40%;
+    margin-top:10px;
+
+  }
+
+  .dave{
+    background-color:blue;
+    text-align: center;
+    padding:5%;
+    margin:0 auto;
+    color: white;
+    position:relative;
+    margin-top: 5px;
+  }
+
+  .message{
+    background-color:black;
+    text-align: center;
+    padding:3%;
+    margin:0 auto;
+    color: white;
+    position:relative;
+    margin-top: 5px;
+
+
+  }
+
+  .sponsor{
+    background-color:green;
+    text-align: center;
+    padding:5%;
+    margin:0 auto;
+    color: white;
+    position:relative;
+    margin-top: 5px;
+
+  }
+  .about{
+    background-color:blue;
+    text-align: center;
+    padding:5%;
+    margin:0 auto;
+    color: white;
+    position:relative;
+
+
+
+  }
+
+  .dave-gamache{
+      background-color:black;
+      text-align: center;
+      padding:5%;
+      margin:0 auto;
+      color: white;
+      position:relative;
+
+
+
+
+
+    }
+
+    .likes{
+        background-color:green;
+        text-align: center;
+        padding:5%;
+        margin:0 auto;
+        color: white;
+        position:relative;
+
+
+
+      }
+
+       .photos{
+          background-color:blue;
+          text-align: center;
+          padding:5%;
+          margin:0 auto;
+          color: white;
+          position:relative;
+
+
+
+        }
+        .jacob{
+            background-color:black;
+            text-align: center;
+            padding:5%;
+            margin:0 auto;
+            color: white;
+            position:relative;
+
+}
+
+
+        .bootstrap{
+            background-color:green;
+            text-align: center;
+            padding:5%;
+            margin:0 auto;
+            color: white;
+            position:relative;
+}
+
+.mark-otto{
+    background-color:red;
+    text-align: center;
+    padding:16%;
+    margin:0 auto;
+    color: white;
+    position:relative;
+
+}
