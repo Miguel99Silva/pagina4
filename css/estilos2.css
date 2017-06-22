@@ -1,28 +1,26 @@
 .row {
-    margin: 0 auto;
-    width:100%
+  margin: 0 auto;
+  width: 100%
+}
 
-  }
 .avatar-dhg {
-border-radius:100%;
-max-width: 100px;
-margin-top: -70px;
-margin-bottom: 5px;
-border: 3px;
-border-radius: 100%;
-
+  border-radius: 100%;
+  max-width: 100px;
+  margin-top: -70px;
+  margin-bottom: 5px;
+  border: 3px;
+  border-radius: 100%;
 }
 
 .avatar-dhg-dave {
-border-radius:100%;
-width: 60px;
-margin-top: -70px;
-margin-bottom: 5px;
-border: 3px;
-border-radius: 100%;
-margin-right: 1rem;
-align-self: flex-start;
-
+  border-radius: 100%;
+  width: 60px;
+  margin-top: -70px;
+  margin-bottom: 5px;
+  border: 3px;
+  border-radius: 100%;
+  margin-right: 1rem;
+  align-self: flex-start;
 }
 
 .imagem-background {
@@ -30,329 +28,234 @@ align-self: flex-start;
   background-image: url('C:/Users/JoaoMarques/Desktop/iceland.jpg');
   background-size: cover;
 }
-  .home2{
-    background-color:blue;
-    text-align: left;
-    color: white;
 
-      }
-      .search2{
-        background-color:blue;
-        text-align: right;
-        color: white;
-
-          }
-
-          .dave2{
-            color: black;
-            margin-top:10px;
-
-              }
-
-            .mensagem2{
-              color: black;
-              margin-top:10px;
-
-
-                    }
-
-              .sponsor2{
-                  color: black;
-                  margin-top:10px;
-                  border: 1px solid rgba(0, 0, 0, 0.125);
-
-                    }
-
-
-                    .texto-gamache{
-                    color:black;
-                    text-align:left;
-
-
-
-
-                    }
-
-                    .imagens{
-                      text-align: left;
-
-
-                    }
-
-                    .texto-jacob{
-                    color:black;
-                    text-align:left;
-
-
-
-
-                    }
-
-                    .texto-mark{
-                    color:black;
-                    text-align:left;
-
-
-
-                    }
-
-
-                    .creditos{
-                    color:black;
-                    text-align:left;
-                    border: 1px solid rgba(0, 0, 0, 0.125);
-                    margin-bottom: 0.5em;
-                    border-radius: 0.45rem;
-
-
-
-                    }
-
-
-                    .gostos{
-                    color:black;
-                    text-align:left;
-                    border: 1px solid rgba(0, 0, 0, 0.125);
-                    margin-bottom: 0.5em;
-                    border-radius: 0.45rem;
-
-
-
-                    }
-
-                    .comentario{
-                    color:black;
-                    text-align:left;
-                    border: 1px solid rgba(0, 0, 0, 0.125);
-                    margin-bottom: 0.5em;
-                    border-radius: 0.45rem;
-
-
-
-
-                    }
-
-
-                    .patrocinio{
-                    color:black;
-                    text-align:left;
-
-                    margin-bottom: 0.5em;
-                    border-radius: 0.45rem;
-                    float: left;
-
-
-
-                    }
-
-
-
-.gamache{
-background-color:white;
-color:black;
-text-align: center;
-
-
+.home2 {
+  background-color: deepskyblue;
+  text-align: left;
+  color: black;
+  height: 60px;
 }
 
-.mark-otto{
-background-color:white;
-color:black;
-
-
+.search2 {
+  background-color: deepskyblue;
+  text-align: right;
+  color: black;
+  height: 60px;
 }
 
-.jacob{
-background-color:white;
-color:black;
-
-
+.dave2 {
+  color: black;
+  margin-top: 10px;
 }
 
-
-.likes{
-background-color:white;
-color:black;
-
-
-}
-.bootstrap{
-background-color:white;
-color:black;
-margin-top: 10px;
-
+.mensagem2 {
+  color: black;
+  margin-top: 10px;
 }
 
-.dave-info{
-text-align: center;
-border: 1px solid rgba(0, 0, 0, 0.125);
-margin-bottom: 1.5em;
-border-radius: 0.25rem;
-float: left;
-width: 100%;
-
+.sponsor2 {
+  color: black;
+  margin-top: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
 }
 
-
-.canada{
-text-align: left;
-
-
+.texto-gamache {
+  color: black;
+  text-align: left;
 }
 
-.obama{
-text-align: left;
-
-
-}
-.github{
-text-align: left;
-
-
-}
-.ca{
-text-align: left;
-
-}
-.wa{
-text-align: left;
-
-}
-.about{
-color:black;
-text-align:left;
-border: 1px solid rgba(0, 0, 0, 0.125);
-margin-bottom: 0.5em;
-border-radius: 0.25rem;
-float: left;
-width: 100%;
-
+.imagens {
+  text-align: left;
 }
 
+.texto-jacob {
+  color: black;
+  text-align: left;
+}
 
+.texto-mark {
+  color: black;
+  text-align: left;
+}
 
-.photos{
+.comentario {
+  color: black;
+  text-align: left;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  margin-bottom: 0.5em;
+  border-radius: 0.45rem;
+}
+
+.gamache {
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+
+.mark-otto {
+  background-color: white;
+  color: black;
+}
+
+.jacob {
+  background-color: white;
+  color: black;
+}
+
+.likes {
+  background-color: white;
+  color: black;
+  margin-top: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.45rem;
+}
+
+.bootstrap {
+  background-color: white;
+  color: black;
+  margin-top: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  margin-bottom: 0.5em;
+  border-radius: 0.45rem;
+}
+
+.dave-info {
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  margin-bottom: 1.5em;
+  border-radius: 0.25rem;
+  float: left;
+  width: 100%;
+}
+
+.canada {
+  text-align: left;
+}
+
+.obama {
+  text-align: left;
+}
+
+.ca {
+  text-align: left;
+}
+
+.wa {
+  text-align: left;
+}
+
+.about {
+  color: black;
+  text-align: left;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  margin-bottom: 0.5em;
+  border-radius: 0.25rem;
+  float: left;
+  width: 100%;
+}
+
+.photos {
   border: 1px solid rgba(0, 0, 0, 0.125);
   margin-top: 10px;
   margin-bottom: 0.5em;
   border-radius: 0.25rem;
   float: left;
   width: 100%;
+  margin: 0 auto;
+}
 
-
-
-
-  }
-
-.ola{
-  float: left;
+.ola {
+  float: right;
   width: 100px;
   margin-bottom: 5px;
   border: 3px;
-
-
 }
 
 .praia {
-  float: right;
-  width: 100px;
-  margin-bottom: 5px;
-  border: 3px;
-
-}
-
-.estrada{
   float: left;
   width: 100px;
   margin-bottom: 5px;
   border: 3px;
-
-
 }
 
-.ponte{
-  float: right;
-  width: 100px;
-  margin-bottom: 5px;
-  border: 3px;
-
-
-}
-
-
-.desenho{
+.estrada {
   float: left;
   width: 100px;
   margin-bottom: 5px;
   border: 3px;
-
-
 }
 
-.cidade{
+.ponte {
+  float: right;
+  width: 100px;
+  margin-bottom: 5px;
+  border: 3px;
+}
+
+.desenho {
+  float: left;
+  width: 100px;
+  margin-bottom: 5px;
+  border: 3px;
+}
+
+.cidade {
   float: right;
   max-width: 100px;
   margin-bottom: 5px;
   border: 3px;
-
-
 }
 
-
-.mensagem{
-
-border: 1px solid rgba(0, 0, 0, 0.125);
-margin-bottom: 0.1rem;
-border-radius: 0.25rem;
-
-
-
-
+.mensagem {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  margin-bottom: 0.1em;
+  border-radius: 0.25rem;
+  width: 100%;
 }
 
-
-.rio{
+.rio {
   float: left;
   width: 100px;
-
   height: 100px;
-
-
-
 }
 
-
-.gruta{
+.gruta {
   float: right;
   width: 100px;
-
-  height:100px;
-
-
+  height: 100px;
 }
 
-.luzes{
+.luzes {
   float: left;
   width: 100px;
-
   height: 100px;
   margin-top: 10px;
-
 }
 
-.caminho{
+.caminho {
   float: right;
   width: 180px;
-
   height: 100px;
   margin-top: 10px;
 }
 
-.gajo{
-width: 100%;
+.gajo {
+  width: 100%;
 }
 
-.farol{
-width: 100%;
-position: relative;
+.farol {
+  width: 100%;
+  vertical-align: middle;
+}
+
+.on {
+  margin: 0;
+  float: right;
+}
+
+.batatas {
+  margin: 0;
+  float: left;
+  width: 100%;
 }
