@@ -44,7 +44,7 @@ border-color:white;
 
 .search2 {
   background-color: deepskyblue;
-  text-align: left;
+  text-align: right;
   color: black;
   height: 60px;
     background-size: cover;
@@ -61,7 +61,17 @@ border-color:white;
 .mensagem2 {
   color: black;
   margin-top: 10px;
+  width: 100%;
+  float: left;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+
 }
+.botao {
+  margin-top: 10px;
+  width: 25%;
+  float: right;
+  height:50%;
+  }
 
 .sponsor2 {
   color: black;
@@ -72,10 +82,6 @@ border-color:white;
 
 .texto-gamache {
   color: black;
-  text-align: left;
-}
-
-.imagens {
   text-align: left;
 }
 
@@ -101,16 +107,20 @@ border-color:white;
   background-color: white;
   color: black;
   text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+
 }
 
 .mark-otto {
   background-color: white;
   color: black;
+  border: 1px solid rgba(0, 0, 0, 0.125);
 }
 
 .jacob {
   background-color: white;
   color: black;
+  border: 1px solid rgba(0, 0, 0, 0.125);
 }
 
 .likes {
@@ -176,12 +186,13 @@ border-color:white;
 
 .photos {
   border: 1px solid rgba(0, 0, 0, 0.125);
-  margin-top: 10px;
+
   margin-bottom: 0.5em;
   border-radius: 0.25rem;
   float: left;
   width: 100%;
-  margin: 0 auto;
+
+
 
 }
 
@@ -225,25 +236,21 @@ border-color:white;
   max-width: 100px;
   margin-bottom: 5px;
   border: 3px;
-}
 
-.mensagem {
-  border: 1px solid rgba(0, 0, 0, 0.125);
-  margin-bottom: 0.1em;
-  border-radius: 0.25rem;
-  width: 100%;
 }
 
 .rio {
   float: left;
-  width: 100px;
+  width: 60%;
   height: 100px;
+
 }
 
 .gruta {
   float: right;
   width: 100px;
   height: 100px;
+
 }
 
 .luzes {
@@ -255,9 +262,10 @@ border-color:white;
 
 .caminho {
   float: right;
-  width: 180px;
+
   height: 100px;
   margin-top: 10px;
+  width:60%;
 }
 
 .gajo {
@@ -269,13 +277,12 @@ border-color:white;
   vertical-align: middle;
 }
 
-.on {
+/*.on {*/
   margin: 0;
   float: right;
 }
 
-.batatas {
-  margin: 0;
-  float: left;
-  width: 100%;
+/*.view{*/
+  color: deepskyblue;
+  text-align: right;
 }
