@@ -100,7 +100,7 @@ border-color:white;
   text-align: left;
   border: 1px solid rgba(0, 0, 0, 0.125);
   margin-bottom: 0.5em;
-  border-radius: 0.45rem;
+  border-radius: 0 0 10px 10px;
 }
 
 .gamache {
@@ -128,7 +128,8 @@ border-color:white;
   color: black;
   margin-top: 10px;
   border: 1px solid rgba(0, 0, 0, 0.125);
-  border-radius: 0.45rem;
+  border-radius: 0.15rem;
+    border-radius: 10px 10px 0 0;
 }
 
 .bootstrap {
@@ -251,6 +252,7 @@ border-color:white;
   width: 100px;
   height: 100px;
 
+
 }
 
 .luzes {
@@ -262,11 +264,12 @@ border-color:white;
 
 .caminho {
   float: right;
-
   height: 100px;
   margin-top: 10px;
   width:60%;
 }
+
+
 
 .gajo {
   width: 100%;
