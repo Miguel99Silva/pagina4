@@ -28,15 +28,17 @@
 
 .imagem-background {
   height: 150px;
-  background-image: url('C:/Users/JoaoMarques/Desktop/iceland.jpg');
+  background-image: url('C:/Users/Ondina/Desktop/fotos/iceland.jpg');
   background-size: cover;
 }
 
 .home2 {
   background-color: #3097D1;
   text-align: left;
-  color: black;
+  color: white;
   height: 60px;
+  
+  font-size:20px; 
 }
 .search2 {
   background-color: #3097D1;
@@ -109,6 +111,7 @@
   background-color: white;
   color: black;
   border: 1px solid rgba(0, 0, 0, 0.125);
+  
 }
 
 .jacob {
@@ -274,8 +277,8 @@
 
 .search-barra{
  margin-top: 5px;
-  width:85%;   
-  
+  width:25%;   
+  float:right;
   
 }
 .sininho{
@@ -291,4 +294,57 @@ margin-right:30px;
   border-radius: 100%;
   }
 
- 
+ .avatar-dhg-texto{
+  width:9%;
+  margin-top:20px;
+  margin-bottom: 5px;
+  border: 3px;
+  border-radius: 100%;
+  margin-right: 0rem;
+  float: left; 
+}
+
+
+.jacob-texto {
+  color: black;
+  text-align: left;
+  margin-left:45px; 
+}
+
+.dr-dave{
+  width:9%; 
+  margin-bottom: 5px;
+  border: 3px;
+  border-radius: 100%;
+  margin-right: 0rem;
+  float: left;
+  margin-top:15px; 
+
+}
+
+.mark-texto {
+  color: black;
+  text-align: left;
+  margin-left:45px; 
+}
+
+.avatar-fat{
+  width:9%; 
+  margin-bottom: 5px;
+  border: 3px;
+  border-radius: 100%;
+  margin-right: 0rem;
+  float: left;
+  margin-top:15px; 
+
+}
+
+.avatar-mdo{
+  width:9%; 
+  margin-bottom: 5px;
+  border: 3px;
+  border-radius: 100%;
+  margin-right: 0rem;
+  float: left;
+  margin-top:15px;   
+}
