@@ -1,0 +1,372 @@
+.input-group {
+      width: 50%;
+      margin-left: 50px;
+}
+
+.search-barra {
+      height: 130px;
+      margin-top: 80px;
+      margin-right: 180px;
+      margin-left: 400px;
+}
+
+.imagem-barra {
+      background-image: url('../images/serra-estrela.jpg');
+      height: 130px;
+}
+
+.rebse {
+      text-align: center;
+      color: white;
+}
+
+.area {
+      text-align: right;
+      color: white;
+}
+
+
+
+.slideshow {
+      width: 100%;
+}
+
+.negocio {
+      background-color: palevioletred;
+      height: 130px;
+      text-align: center;
+      color: white;
+}
+
+.bolsa {
+      background-color: blue;
+      height: 130px;
+      text-align: center;
+      color: white;
+}
+
+.letra {
+      font-weight: bolder;
+}
+
+.agenda {
+      width: 100%;
+}
+
+.noticia-1 {
+      height: 300px;
+      margin-top: 40px;
+}
+
+.imagem2 {
+      height: 190px;
+      color: white;
+}
+
+.maio {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
+
+.noticia2 {
+      height: 300px;
+      margin-top: 40px;
+}
+
+.junho {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
+
+.imagem4 {
+      height: 190px;
+      color: white;
+}
+
+.noticias {
+      background-color: grey;
+      height: 800px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/images/noticias-bg.jpg')
+}
+
+.pesquisa {
+      height: 200px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE2/images/iphone.jpeg');
+}
+
+.documentos {
+      height: 500px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/milimetricas.jpg');
+}
+
+.parcerias {
+      background-image: url('../images/serra-estrela.jpg');
+      height: 180px;
+}
+
+.cimbse {
+      height: 190px;
+      margin-top: 20px;
+}
+
+.mapas {
+      height: 200px;
+      background-size: cover;
+      width: 100%;
+}
+
+.informacao {
+      text-align: center;
+      height: 150px;
+      margin-top: 95px;
+}
+
+.empresa {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 90px;
+}
+
+.turismo {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 50px;
+}
+
+.exportacao {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 50px;
+}
+
+.doc1 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 120px;
+}
+
+.doc2 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 20px;
+}
+
+.doc3 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 20px;
+}
+
+.telefone {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+      font-size: 20px;
+      font-weight: bolder;
+      text-align: center;
+}
+
+.nome {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.sugestao {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.texto {
+      font-size: 20px;
+      font-weight: bolder;
+}
+
+.botao-ler {
+      text-align: center;
+      margin-top: 10px;
+}
+
+.button {
+      text-align: center;
+      margin-top: -25px;
+      color: transparent;
+}
+
+.imagem-mapa {
+      background-size: cover;
+      width: 100%;
+}
+
+.img-responsive {
+      background-size: cover;
+      vertical-align: middle;
+}
+
+.logotipos {
+      width: 100%;
+      margin-top: 50px;
+}
+
+.centro2020 {
+      width: 100%;
+}
+
+.texto-cores {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 15px;
+}
+
+.imagem {
+      width: 100%;
+}
+
+.imagens {
+      width: 100%;
+      margin-top: 20px;
+}
+
+.teclados {
+      height: 190px;
+      width: 100%;
+}
+
+.carousel-inner {
+      height: 100%;
+}
+
+.item-active {
+      width: 100%;
+}
+
+.seta {
+      border-color: white;
+      margin-top: 10px;
+}
+
+.mao-metal {
+      width: 100%;
+      height: 190px;
+}
+
+.cadernos {
+      width: 100%;
+      height: 190px;
+}
+
+.agendas {
+      margin-top: 30px;
+      margin-left: 50px;
+}
+
+.items {
+      margin-right: 100px;
+}
+
+.item1 {
+      margin-left: 100px;
+      margin-top: 30px;
+}
+
+.pioneer {
+      width: 100%;
+      margin-top: -15px;
+}
+
+.phone {
+      width: 50%;
+}
+
+.projeto {
+      width: 100%; 
+      height: 900px;
+      font-size: 355%;           
+
+}
+
+.logotipo {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 50px;   
+}
+
+.beiras {
+      background-color: white;
+      font-size:15px;   
+      margin-top: -150px;
+                   
+}       
+
+.fora-row {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 20px;                    
+}           
+
+.pro{
+      color:black;
+      font-weight: bolder;
+      font-size: 10px;       
+}   
+
+
+.seta-icon{
+    margin-top: 20px;
+           
+}   
+
+.row-texto{
+    margin-top: 8px;
+    width:100%;
+    
+} 
+
+.titulo{
+   font-weight: bolder;
+    font-size: 30px;
+}  
+
+
+.objetivo{
+ text-align:right;
+ font-size: 40px;
+ font-weight: bolder;
+  margin-top: -15px;
+  color:black;
+
+}   
+
+.entidade{
+ text-align:right;
+ font-size: 20px;
+ font-weight: bolder;
+ margin-top: -15px;
+ color: black;
+
+}      
+
+.seta-torta{
+  margin-top: 15px;
+  text-align:left;
+       
+}   
+
+
+.passa{
+      color:deeppink;
+}                                       
+
+
+.desenhos{
+      margin-top:100px;
+} 
